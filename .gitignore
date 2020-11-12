@@ -1,8 +1,17 @@
-*.gem
-.bundle
-.sass-cache
-.jekyll-cache
+# hidden files
+.*
+
+# python compiled files
+*.pyc
+
+# jekyll debug
 _site
+
+# Jeykll Gemfile.lock
 Gemfile.lock
-unused
-bootstrap-reference.html
+
+# yui-compressor
+*.jar
+
+# bundle cache
+vendor
