@@ -8,8 +8,6 @@ title: About
 # MIT License
 ---
 
-### 都一凡
-
 #### 教育经历
 
 _____________________________________________________
@@ -37,9 +35,11 @@ _____________________________________________________
   GitHub链接：https://github.com/Richar-Du/HAR-based-on-multilayer-perceptron
 
 
+&emsp;
 
+&emsp;
 
-
+&emsp;
 
 
 ***我不怕自己走得慢，我只怕自己走不远。***
