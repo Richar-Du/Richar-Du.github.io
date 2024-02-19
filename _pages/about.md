@@ -17,7 +17,7 @@ I am a Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin Un
   [[pdf]](https://arxiv.org/pdf/2311.01487.pdf) [[code]](https://github.com/RUCAIBox/ComVint)
   
 - Evaluating Object Hallucination in Large Vision-Language Models _(EMNLP 2023)_  
-  Yifan Li†, **Yifan Du**†, Kun Zhou*, Jinpeng Wang, Wayne Xin Zhao, Ji-Rong Wen  
+  Yifan Li†, **Yifan Du**†, Kun Zhou†, Jinpeng Wang, Wayne Xin Zhao, Ji-Rong Wen  
   [[pdf]](https://arxiv.org/pdf/2305.10355.pdf) [[code]](https://github.com/RUCAIBox/POPE)
 
 - A Survey of Large Language Models  
