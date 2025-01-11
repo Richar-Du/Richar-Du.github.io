@@ -14,7 +14,7 @@ I am a third-year Ph.D. student at the Gaoling School of Artificial Intelligence
 
 - Ph.D. student of Artificial Intelligence, Renmin University of China, 2022-2027 (Expected)
 
-- B.Sc. of Statistics, ShanDong University, 2018-2022
+- B.Sc. of Statistics, Shandong University, 2018-2022
 
 ## Experience
 
